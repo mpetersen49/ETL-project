@@ -4,14 +4,15 @@
 
 1. Clone repo to your desktop.
 1. Open `pgAdmin4` and create a new database titled `FastFood_db`.
-1. Navigate to FastFood_db and open a query tool.
+1. Navigate to `FastFood_db` and open a query tool.
 1. Open `ERD.sql` from the cloned repo folder.
 1. Select all and run query.
 1. Close the query tool and open a new query tool from `FastFood_db`.
 1. Open `food_class.sql`.
 1. Select all and run query.
 1. Close query tool.
-1. Navigate to the root directory of the repo.
+1. Navigate to the cloned repo folder.
+1. Right-click and select `Git Bash Here` to open a git bash new terminal.
 1. Enter `source activate PythonData` in the terminal.
 1. Open jupyter notebook.
 1. Create a new text file and rename it `config.py`.
