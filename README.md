@@ -16,7 +16,7 @@
 1. Type `source activate PythonData` in the terminal and press enter.
 1. From the terminal open jupyter notebook.
 1. In jupyter notebook create a new text file and rename it `config.py`.
-1. Within `config.py` create a variable called `username` and a `variable` called password. Assign your postgres username and password to the respective variables.
+1. Within `config.py` create a variable called `username` and a variable called `password`. Assign your postgres username and password to the respective variables.
 1. Save and close `config.py`.
 1. Navigate to and open `Restaurant_ETL.ipynb`.
 1. Go to Kernel and select Restart & Run All.
