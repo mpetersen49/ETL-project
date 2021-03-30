@@ -11,11 +11,11 @@
 1. Open `food_class.sql`.
 1. Select all and run query.
 1. Close query tool.
-1. Navigate to the cloned repo folder.
-1. Right-click and select `Git Bash Here` to open a git bash new terminal.
-1. Enter `source activate PythonData` in the terminal.
-1. Open jupyter notebook.
-1. Create a new text file and rename it `config.py`.
+1. On your desktop navigate to the cloned repo folder.
+1. Right-click the repo folder and select `Git Bash Here` to open new a git bash terminal.
+1. Type `source activate PythonData` in the terminal and press enter.
+1. From the terminal open jupyter notebook.
+1. In jupyter notebook create a new text file and rename it `config.py`.
 1. Within `config.py` create a variable called `username` and a `variable` called password. Assign your postgres username and password to the respective variables.
 1. Save and close `config.py`.
 1. Navigate to and open `Restaurant_ETL.ipynb`.
