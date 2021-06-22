@@ -1,4 +1,10 @@
-# ETL-project
+# Fast Food ETL Demo
+
+The purpose of this project is to demonstrate skills in the ETL (extract, transform, load) process.  For this project our team saught out several different fast food databases from different fast food franchasis (in this case: Subway, Burger King, McDonalds, and Starbucks) and loaded the information into one cleaned SQL database.  
+
+Data for this project was found at https://www.kaggle.com/
+
+Instructions on how to implement our process can be found below.  
 
 **Follow these steps to create database and transfer data:**
 
